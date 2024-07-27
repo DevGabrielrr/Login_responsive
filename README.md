@@ -5,7 +5,7 @@ Esse é um exemplo de uma página HTML e CSS que é não apenas visualmente atra
 ![Imagem do projeto](assets/img/login2.png)
 
 ### 🚀 Veja o projeto
-[Link do projeto](https://devgabrielrr.github.io/Calculadora-JavaScript/)
+[Link do projeto](https://devgabrielrr.github.io/Login_responsive/)
 
 ### Tecnologias Utilizadas
 - HTML5: para a estrutura do site.
